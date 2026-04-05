@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝  ╚═══╝  ╚═╝
 ```
 
-### `console.log("Still building. Still grinding.")` 🔥
+### `console.log("Still building. Still grinding.")`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;C%23+%2F+.NET+%2F+WPF+Architect;React+Explorer;Open+Source+Collaborator;Coding+Since+2018+%E2%80%94+Still+Hungry)](https://git.io/typing-svg)
 
@@ -21,7 +21,7 @@
 
 ---
 
-## ⚡ Who Am I?
+## Who Am I?
 
 > AFK ended. Rejoined the server. Playing on hardcore mode now.
 
@@ -39,7 +39,7 @@ var prithvi = new Developer
     Stack             = new[] { "C#", ".NET", "WPF", "React", "Node.js" },
     CurrentlyLearning = "React JS",
     LookingFor        = "Open Source Collabs",
-    AskMeAbout        = "Autobots ROLLOUT 🤖",
+    AskMeAbout        = "Autobots ROLLOUT",
     Mindset           = "Ship it. Improve it. Repeat."
 };
 ```
@@ -78,7 +78,7 @@ var prithvi = new Developer
 
 ---
 
-## 📊 The Numbers
+## The Numbers
 
 <div align="center">
 
@@ -88,7 +88,7 @@ var prithvi = new Developer
 
 <div align="center">
 
-**📍 India &nbsp;·&nbsp; 💻 5+ Years In &nbsp;·&nbsp; 🚀 Still Day One**
+**📍 India &nbsp;·&nbsp; 💻 5+ Years In &nbsp;·&nbsp;  Still Day One**
 
 ---
 
